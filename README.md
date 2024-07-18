@@ -2,6 +2,7 @@
 A basic application for meditation. Used Model-View-Controller (MVC) design pattern 
 This project designed a system for a meditation app that includes classes for users, courses, instructors, and exercises.
 Here are the brief descriptions for each class and interface we need for this project:
+
 ![image](https://github.com/user-attachments/assets/129dd6a1-a92c-4ee5-8201-b18cebb3a65d)
 
 Course.java:
