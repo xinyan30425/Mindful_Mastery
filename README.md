@@ -2,6 +2,7 @@
 A basic application for meditation. Used Model-View-Controller (MVC) design pattern 
 This project designed a system for a meditation app that includes classes for users, courses, instructors, and exercises.
 Here are the brief descriptions for each class and interface we need for this project:
+![image](https://github.com/user-attachments/assets/129dd6a1-a92c-4ee5-8201-b18cebb3a65d)
 
 Course.java:
 Represents a course that can be taken by a user. It contains information such as the course name, description, instructor, and sessions. 
@@ -33,6 +34,8 @@ Contains information such as the start time, duration, associated meditation exe
 
 MeditationRecordList.java:
 A class that extends ExerciseRecordList for meditation records. It provides methods for filtering and sorting meditation records.
+
+![image](https://github.com/user-attachments/assets/52b414fb-cd8c-4076-acc7-fcc1e486a2f0)
 
 Session.java:
 Represents a meditation session that can be included in a course, which contains a name, description, duration, and a list of exercises.
@@ -78,3 +81,8 @@ It extends JPanel and includes text fields for the user’s name, email, and pas
 Driver.java:
 The Driver class is the main class that runs the meditation application. It creates and manages various objects such as instructors, meditation exercises, sessions, courses, modules, users, and payment and subscription information. It also interacts with users by displaying information and prompting for input via the console and GUI view window. Additionally, it demonstrates the functionality of various classes in the application such as MeditationRecord, SessionRecord, and ExerciseRecordList by creating instances and printing their details. 
 Finally, it also showcases the notification system by registering and unregistering users as observers and notifying them of updates to courses.
+
+
+![image](https://github.com/user-attachments/assets/9b9518ed-a4e7-4e97-9d2a-f7808e9c5608)
+
+
